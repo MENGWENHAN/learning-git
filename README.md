@@ -1,2 +1,5 @@
 # learning-git
-my first remote repository
+my first remote repository. 
+
+
+this repo is for learning how to use Git.
